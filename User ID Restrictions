@@ -1,0 +1,5 @@
+# Allowed Telegram user IDs (only these users can interact with the bot)
+# You can get your user ID from @userinfobot
+ALLOWED_USER_IDS = {
+     123456789, 987654321
+}
